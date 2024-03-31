@@ -206,7 +206,7 @@ const Project = () => {
                     Inquirer
                   </h1>
                   <p className="leading-relaxed text-gray-300 font-abc">
-                    Inquirer is a command-line interface (CLI) that uses JavaScript, Python's Enquire library and Node.
+                    Inquirer is a command-line interface CLI that uses JavaScript, Python Enquire library and Node.
                   </p>
                   <Link
                     href={"https://github.com/AhmedQamar7/Inquirer"}
@@ -233,7 +233,7 @@ const Project = () => {
                     No. Guessing Game
                   </h1>
                   <p className="leading-relaxed text-gray-300 font-abc">
-                    Guessing Game where the user has to guess a number between 1 and 10, but they don't know what it is.
+                    Guessing Game where the user has to guess a number between 1 and 10, but they don`t know what it is.
                   </p>
                   <Link
                     href={"https://github.com/AhmedQamar7/Guessing-Game"}

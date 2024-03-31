@@ -1,11 +1,11 @@
 "use client";
-import React from 'react'
-import Image from 'next/image'
+import React from "react"
+import Image from "next/image"
 
 
 const About = () => {
   return (
-    <div id='about' className='bg-black'>
+    <div id="about" className="bg-black">
       <section className="text-gray-400 body-font">
         <div className="container px-5 py-24 mx-auto flex flex-col">
           <div className="lg:w-4/6 mx-auto">
@@ -31,7 +31,7 @@ const About = () => {
                     alt="Muhammad Ahmed"
                     width={100}
                     height={100}
-                    layout='responsive'
+                    layout="responsive"
                     className="w-[50px] rounded-full"
                   />
                 </div>
@@ -41,7 +41,7 @@ const About = () => {
                     Muhammad Ahmed
                   </h2>
                   <div className="w-12 h-0.5 bg-orange-200 rounded mt-2 mb-4" />
-                  <div className='text-gray-300'>
+                  <div className="text-gray-300">
                     <p className="text-base font-def ">
                       A passionate Computer Science Student Programmer with a knack for designing and developing websites.
                     </p>
@@ -54,7 +54,7 @@ const About = () => {
                   About Me
 
                   <p className="leading-relaxed text-lg mb-2 mt-10 text-left text-gray-300 font-def font-normal">
-                    As a web developer, I thrive on turning ideas into interactive digital experiences. I command HTML, CSS, JavaScript, TypeScript, Next.js, React.js, and even dive into the realms of C and C++. Currently, I’m pursuing Generative AI and Cloud Computing Engineering. When I’m not coding, you’ll find me exploring the latest tech trends or lost in a good book. Let’s connect and build something remarkable!
+                    As a web developer, I thrive on turning ideas into interactive digital experiences. I command HTML, CSS, JavaScript, TypeScript, Next.js, React.js, and even dive into the realms of C and C++. Currently, I am pursuing Generative AI and Cloud Computing Engineering. When I am not coding, you all find me exploring the latest tech trends or lost in a good book. Lets connect and build something remarkable!
 
                   </p>
                 </div>
